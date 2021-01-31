@@ -1,0 +1,3 @@
+include ':messagelibrary'
+include ':app'
+rootProject.name = "SampleLibrary"
